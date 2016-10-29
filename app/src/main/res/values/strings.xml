@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DataStorage</string>
+    <string name="user_name">账号：</string>
+    <string name="password">密码：</string>
+    <string name="sharedPreferences_write">sharedPreferences写入</string>
+    <string name="sharedPreferences_read">sharedPreferences读取</string>
+    <string name="ROM_write">ROM写入</string>
+    <string name="ROM_read">ROM读取</string>
+    <string name="SD_write">SD卡写入</string>
+    <string name="SD_read">SD卡读取</string>
+
+</resources>
